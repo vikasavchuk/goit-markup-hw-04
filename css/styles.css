@@ -363,6 +363,15 @@ color: #404BBF;
     padding: 100px 0;
 }
 
+.conteiner-footer {
+    display: flex;
+    align-items: baseline;
+  }
+
+.footer-div {
+    margin-right: 120px;
+}
+
 .logo-two {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
