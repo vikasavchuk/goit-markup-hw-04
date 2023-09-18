@@ -107,6 +107,7 @@ img {
     background-color: #404bbf;
     border-radius: 2px;
     content: '';
+    width: 100%;
   }
 
 .adress {
@@ -303,6 +304,7 @@ color: #404BBF;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .social-icon-group {
